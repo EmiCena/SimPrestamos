@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Préstamos",
+  "description": "Calculadora interactiva para simular préstamos e inversiones con tasas y días variables.",
+  "requestFramePermissions": []
+}
